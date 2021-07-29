@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kant and blockchains
+title: An analogy between Kantian epistemology and blockchains
 ---
 
 ## An analogy between Kantian epistemology and blockchains
