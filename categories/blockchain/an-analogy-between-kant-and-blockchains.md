@@ -3,8 +3,6 @@ layout: post
 title: An analogy between Kantian epistemology and blockchains
 ---
 
-## An analogy between Kantian epistemology and blockchains
-
 Let’s consider a proposition.
 
     Objectivity is the universality of receptive structured subjectivity.
