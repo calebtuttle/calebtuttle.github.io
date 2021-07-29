@@ -8,3 +8,5 @@ layout: home
 
 [comment]: <> ([link to second general post](categories/general/second-general-post))
 
+### [Blockchain](categories/blockchain/index)
+
