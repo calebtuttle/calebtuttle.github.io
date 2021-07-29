@@ -6,7 +6,7 @@ layout: post
 
 Let’s consider a proposition.
 
-  Objectivity is the universality of receptive structured subjectivity.
+    Objectivity is the universality of receptive structured subjectivity.
 
 Although I’m no Kant scholar,  I feel this proposition captures the achievement of the philosopher’s transcendental idealism. To explain key structures of experience (such as cause-effect relations), Kant pointed to the human mind rather than the external world. He argued that there are appearances and that the mind determines, at least partially, how these appearances appear. Despite his focus on the subjective, Kant found a way to explain objectivity. He more or less argued that objectivity is the convergence of many minds. In other words, because each human has the same mental faculties—that is, because each human’s experience is structured the same way—all humans have knowledge of the same empirical world. For Kant, we do not obtain objective knowledge via coming into contact with the things in themselves, the things as they are independent of our experience. Instead, all of us come into contact with things only as we experience them. 
 
