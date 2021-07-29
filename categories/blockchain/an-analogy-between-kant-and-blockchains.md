@@ -24,21 +24,22 @@ We can see the analogy between these two systems when we use a certain vocabular
 
 We could work forwards through this proposition, defining objectivity first and subjectivity last. But that would be trying to start at the destination since our goal is to understand “objective.” Let’s start with subjectivity.
 
-Subjectivity
+### Subjectivity
 Each node in a blockchain is a subject. A state is said to be subjectively true if any node on the network recognizes it as true.  Just like the private thoughts and feelings of a single person are subjective, the “thoughts and feelings” (i.e., states) of a single node are subjective.
 
-Structured
+### Structured
 Each node running the blockchain protocol is, by virtue of running a protocol, structured. The protocol defines both how a node interacts with other nodes and what the node can recognize as valid or true. For example, if a node running the bitcoin protocol receives a message that is not formatted as a bitcoin transaction, the node will reject the message. To the bitcoin node, the message could be anything from spam to a nation’s nuclear codes—the node doesn’t care. Since the message wasn’t formatted correctly, the data is fundamentally meaningless, senseless, invalid.  Whatever the data corresponded to in the “real world” is not real to the bitcoin node.
 
-Receptive
+### Receptive
 We should not take for granted that nodes on a blockchain network are receptive to data from other nodes. This receptivity is a condition for state changes. The Kantian analogue to data is phenomena, appearances. Just like human minds are receptive to appearances, nodes on a network are receptive to data.
 
-Universal
+### Universal
 Note that every node on a blockchain network runs the same protocol.  This is the universality of structured subjectivity. Not only does one node operate according to a certain ruleset, but every node it communicates with operates according to the same ruleset. 
 
-Objectivity
+### Objectivity
 Objectivity, then, is nothing less than the state common to all (or the majority of) the nodes on the network. Because every node runs the same protocol and receives similar data, a single state emerges from the interaction of these nodes. 
 
+### Final Thoughts
 It might be valuable to introduce a few more terms to our philosophy-inspired blockchain vocabulary.
 
 A state is objectively true when the majority of nodes recognize it as such. A message is meaningful  when it accords with the transaction format. A transaction can be said to have weak truth when it is valid (i.e., when both the transaction accords with the transaction format and, in the case of cryptocurrencies, its sender has enough funds to cover the transaction). A transaction can be said to have strong truth once it is on a block on the blockchain and the block has enough confirmations (i.e., once the transaction is reversable only by a hard fork). 
