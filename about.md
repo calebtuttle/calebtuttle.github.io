@@ -6,5 +6,6 @@ permalink: /about/
 
 Hello! I'm Caleb. I graduated in 2020 from Belmont University with a B.S. in Computer Science and Philosophy. I'm a software developer and lover of ideas. This site serves as a repository for some of my thoughts. 
 
-My GitHub: [https://github.com/calebtuttle](https://github.com/calebtuttle)
+GitHub: [https://github.com/calebtuttle](https://github.com/calebtuttle)
 
+Twitter: [https://twitter.com/calebtuttle9](https://twitter.com/calebtuttle9)
