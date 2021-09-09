@@ -3,7 +3,7 @@ layout: post
 title: Virtue ethics and loss functions
 ---
 
-I want to reflect on the similarities between virtue ethics and AI research.
+I want to reflect on a similarity between virtue ethics and AI research. Specifically, there's an analogy between the virtuous ideal talked about by virtue ethicists and the concept of a loss function in machine learning. The [sage](https://en.wikipedia.org/wiki/Sage_(philosophy)) provides an ideal against which we can determine whether we err with respect to virtue just as a model's [loss function](https://en.wikipedia.org/wiki/Loss_function) determines how much the model errs with respect to meeting whatever goal it happens to have.
 
 [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics) locates moral worth in the _character_ of the actor. This differs from [consequentialist ethics](https://en.wikipedia.org/wiki/Consequentialism), which locates moral worth in the consequences of an action, and from [deontological ethics](https://en.wikipedia.org/wiki/Deontology), which locates moral worth in the fulfillment of some duty.
 
@@ -38,8 +38,10 @@ Another point of contact: Consider the second sentence in the Wikipedia entry fo
     perceives its environment and takes actions 
     that maximize its chance of achieving its goals.
 
-AI studies intelligent agents--i.e., things which act towards goals within an environment. The AI researcher, then, is someone who crafts things which act toward goals. The successful AI researcher is someone who can clearly articulate an agent's goal and who understands the mechanisms of the agent well enough to guide the agent. This researcher also happens to have the ability to define the agent's mechanisms.
+AI studies intelligent agents--things which act towards goals within an environment. The AI researcher, then, is someone who crafts things which act toward goals. The successful AI researcher is someone who can clearly articulate an agent's goal and who understands the mechanisms of the agent well enough to guide the agent. This researcher also happens to have the ability to define the agent's mechanisms.
 
 To my ears, this sounds almost like a description of virtue ethics. The virtue ethicist is someone who has identified the ultimate goal for a human, understands the mechanisms of human behavior and psychology, and who uses this understanding to guide the human toward the goal. Unlike the AI researcher, however, the virtue ethicist cannot define a human's biological mechanisms.
 
-The analogy I'm trying to draw is this: Aristotle, in his discussions of virtue and happiness and how to optimize for them, outlines what might be thought of as a human's loss function. Aristotle's ideal gives an individual something against which they can measure themselves and determine how to change direction to minimize error. In fact, the whole field of AI as a study of intelligent agents seems remarkably similar to the field of virtue ethics, which studies human agents and tries to define their goals (on an agent-to-agent basis, rather than, say, a society-wide basis like utilitarianism might do).
+The analogy I'm trying to draw is this: Aristotle, in his discussions of virtue and happiness and how to optimize for them, outlines what might be thought of as a human's loss function. Aristotle's ideal gives an individual something against which they can measure themselves and determine how to change direction to minimize error. In fact, if we define AI as the study of how to optimize agents to meet goals (and how to define these goals), and if virtue ethics is the study of identifying and optimizing for an ideal life, virtue ethics is a subspecialty of AI. The agents studied by virtue ethics just happen to be humans.
+
+If this analogy holds, what can virtue ethicists learn from AI researchers and vice versa? Might we be able to codify (in actual code) a human's loss function, the thing which guides one to a good life?
