@@ -7,8 +7,5 @@ title: Home
 ---
 
 
-[comment]: <> ([link to second general post](categories/general/second-general-post))
-
-### [Philosophy](categories/philosophy/index)
-### [Blockchain](categories/blockchain/index)
+### [Notes](/notes/index)
 
