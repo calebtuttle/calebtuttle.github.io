@@ -5,7 +5,7 @@ title: A transactionist approach to friendship
 
 (Forgive me. These reflections aren't informed.)
 
-(This piece uses the numbering system from the [_Tractatus_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus) where 1.1 elaborates on 1.0 and 1.11 elaborates on 1.1.)
+(This piece uses the numbering system from the [_Tractatus_](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus), so 1.1 elaborates on 1.0 and 1.11 elaborates on 1.1.)
 
 1.0 - All friendship is transactional.
 
