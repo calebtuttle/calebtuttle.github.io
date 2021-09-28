@@ -28,3 +28,10 @@ title: A transactionist approach to friendship
 2.2 - By "easy friendship" I mean a friendship that takes relatively little time to develop and relatively little effort to maintain.
 
 2.21 - The qualification "relatively" is important. Both friends, for example, might be difficult people and be living through difficult circumstances. Such a friendship can be described as easy because Friend A is superior to Friend B's potential friends at continually anticipating and meeting Friend B's expectations (and so is Friend B superior to Friend A's potential friends).
+
+
+[^1]: [Altruistic behaviors relieve physical pain](https://www.pnas.org/content/117/2/950)
+
+[^2]: [Wikipedia: "Heuristics in judgment and decision-making"](https://en.wikipedia.org/wiki/Heuristics_in_judgment_and_decision-making)
+
+[^3]: It's not philosophy exactly, but I have no better term.
