@@ -51,7 +51,7 @@ What follows uses the numbering system from Ludwig Wittgenstein's _Tractatus Log
 3.21 - But why say there is a transaction at all if it is not felt until a certain threshold is met? Isn't that postulating entities without necessity? If we are going to explain the *initial* occurrence of this cooperation-seeking behavior (e.g., a wave of arms in a stadium), with whom is the initiator transacting? If he is not transacting with another indiviudal person, he must be transacting with the group as such or the group's activity (i.e., the wave) as such, but this feels more like posulating unnecessary entities than only allowing transactions between individual human beings.
 
 
-## People whose thoughts on friendship have stuck with me
+### People whose thoughts on friendship have stuck with me
 - [Aristotle](https://plato.stanford.edu/entries/aristotle-ethics/#Frie)
 - [Brendan Mackie](https://reallifemag.com/why-cant-we-be-friends/)
 - [Olivia Laing at _The Guardian_](https://www.theguardian.com/society/2021/jul/18/loneliness-coping-with-the-gap-where-friends-used-to-be)
