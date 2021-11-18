@@ -42,7 +42,7 @@ What follows uses the numbering system from Ludwig Wittgenstein's _Tractatus Log
 
 3.0 - The "transactions" of friendship include much more than just activities in which the friends are focused, in part or whole, on each other.
 
-3.1 - Some activities of friendship include being subsumed into an activity with another person, having little to no thought about the person's thoughts or feelings. The most notable of these transactions include many people. Subjectively, it even feels as though the transaction is between oneself and some indeterminate, myseterous, beautiful, transcendent whole.
+3.1 - Some activities of friendship include being subsumed into an activity with another person, having little to no thought about the person's thoughts or feelings. The most notable of these transactions include many people. Subjectively, it even feels as though the transaction is between oneself and some indeterminate, myseterous, beautiful (or terrifying), transcendent whole.
 
 3.11 - For example, when we play team sports, our teammates are our friends. I *get* something from participating in the team sport. A better example: As I sing at a concert, my individual voice is lost in a chorus of thousands of other voices where euphoria comes over me. Or: While in the stands of a football stadium, I cheer on my team, raising my voice with the crowd, moving my arms in a "wave" that flows through the entire stadium. Why do we do these things--*pursue* these things--if we do not get something from them--if we do not derive value from them?
 
