@@ -1,3 +1,4 @@
+---
 layout: post
 title: The decision-making function - notes
 ---
