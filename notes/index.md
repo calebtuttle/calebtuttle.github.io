@@ -7,7 +7,7 @@ title: Notes
 
 ### [The decision-making function - notes](/notes/decision-making-function-notes)
 
-## [Notes on an analogy between Aristotle's potency-activity coupling and functions in programming](notes-on-the-analogy-between-a-potency-activity-and-a-function)
+### [Notes on an analogy between Aristotle's potency-activity coupling and functions in programming](notes-on-the-analogy-between-a-potency-activity-and-a-function)
 
 ### [An analogy between Kantian epistemology and blockchains](/notes/an-analogy-between-kant-and-blockchains)
 
