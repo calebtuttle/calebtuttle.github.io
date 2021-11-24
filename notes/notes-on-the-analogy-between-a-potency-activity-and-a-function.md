@@ -16,4 +16,4 @@ This function encapsulates the _potency_ to add 1 to some specified number. If w
 
 (This description of functions in programming deserves much more space, but I'm going to skip over the details because that's what my mind did when presenting this idea to me.)
 
-We have, then, an analogy between the coupled components of Aristotle's thought (potency and being-at-work) and computer functions. On this analogy, any potency for an activity _is_ a function.
+We have, then, an analogy between the coupled components of Aristotle's thought (potency and being-at-work) and computer functions. Any potency for an activity _is_ a function.
