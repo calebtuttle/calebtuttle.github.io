@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](/Headshot.JPG =100x100)
+![picture](/Headshot.JPG =100x100)
 
 Hello! I'm Caleb. I graduated in 2020 from Belmont University with a B.S. in Computer Science and Philosophy. I'm a software developer and lover of ideas. This site serves as a repository for some of my thoughts. 
 
