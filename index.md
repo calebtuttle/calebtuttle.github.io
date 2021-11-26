@@ -9,3 +9,4 @@ title: Home
 
 ### [Notes](/notes/index)
 
+### [ConsenSys Blockchain Developer Bootcamp Final Project Frontend](/ConsenSysProject/client/public/index)
