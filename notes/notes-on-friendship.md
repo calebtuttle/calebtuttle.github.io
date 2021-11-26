@@ -18,6 +18,8 @@ How might we facilitate easy friendship? First, we must remove the information-p
 ## Numbered reflections
 (Forgive me. These reflections aren't informed.)
 
+(Nov. 25, 2021 EDIT: I've just discovered that this is basically [social exchange theory](https://en.wikipedia.org/wiki/Social_exchange_theory))
+
 What follows uses the numbering system from Ludwig Wittgenstein's _Tractatus Logico Philosophicus_ (where 1.1 is an elaboration on 1.0, and 1.11 is an elaboration on 1.1).
 
 1.0 - All friendship is transactional.
