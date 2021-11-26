@@ -1,4 +1,5 @@
 {
+  "homepage" : "https://calebtuttle.github.io/ConsenSysProject/client/build/index.html",
   "name": "client",
   "version": "0.1.0",
   "private": true,
