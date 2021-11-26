@@ -1,13 +1,3 @@
 _site
 .sass-cache
 .jekyll-metadata
-
-.env
-node_modules
-build
-app/src/contracts
-.DS_Store
-.vscode/
-todo_notes.txt
-checklist.md
-.secret
