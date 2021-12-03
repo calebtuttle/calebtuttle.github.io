@@ -60,6 +60,31 @@ Finally, one might say that the internal community model is no better at account
 The internal community shows itself in some kinds of internal conflict, for example, conflict over one’s identity. The internal community is composed of voices, each of which is derived from a source or composite of sources in the social world. Voices vary along both a spectrum of individuality-anonymity and a spectrum of alterity (ego-other). The entire collection of voices can be more or less integrated. In relation to sociometer theory and cognitive dissonance theory, the internal community model might offer valuable refinements and might serve as an integrative concept. The internal community does not present a problem of infinite regress, is not reducible to memory, and accounts for the affective component of internal conflict.
 
 
+## References
+
+Berger, Peter and Thomas Luckmann. The Social Construction of Reality: A Treatise in the Sociology of Knowledge. New York: Anchor Books, 1967.
+
+Cameron, Jessica J. and Danu Anthony Stinson. “Sociometer Theory.” In Encyclopedia of Personality and Individual Differences, 1-6. Edited by Virgil Zeigler-Hill and Todd Shackelford. New York: Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-28099-8_1187-1.
+
+Festinger, Leon. A Theory of Cognitive Dissonance. United Kingdom: Stanford University Press, 1957.
+
+Heidegger, Martin. Being and Time. Translated by Edward Robinson. New York: Harper Perennial Modern Thought, 2008.
+
+Horrigan-Kelly, Marcella, Michelle Millar, and Maura Dowling. “Understanding the Key Tenets of Heidegger’s Philosophy for Interpretive Phenomenological Research.” International Journal of Qualitative Methods 15, no. 1 (2016): 1-8. https://doi.org/10.1177/1609406916680634.
+
+Kaufman, Scott Barry. Transcend: The New Science of Self-Actualization. New York: TarcherPerigee, 2020.
+
+Leary, Mark R., Ellen S. Tambor, Sonja K. Terdal, and Deborah L. Downs. “Self-esteem as an interpersonal monitor: The sociometer hypothesis.” Journal of Personality and Social Psychology 68, no. 3 (1995): 518-530. https://doi.org/10.1037/0022-3514.68.3.518.
+
+Lerner, Jennifer S., Ye Li, Piercarlo Valdesolo, and Karim Kassam. “Emotions and Decision Making.” Annual Review of Psychology 66, (2015): 799-823. https://doi.org/10.1146/annurev-psych-010213-115043.
+
+Lieberman, Matthew D. Social: Why Our Brains Are Wired to Connect. New York: Broadway Books, 2013.
+
+Merleau-Ponty, Maurice. Phenomenology of Perception. Translated by Donald A. Landes. New York: Routledge, 2012.
+
+Siegel, Daniel J. The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are. 2nd ed. New York: The Guilford Press, 2012.
+
+
 ## Endnotes
 [^1]: Peter Berger and Thomas Luckmann, *The Social Construction of Reality: A Treatise in the Sociology of Knowledge* (New York: Anchor Books, 1967), 154-155.
 
@@ -86,28 +111,3 @@ The internal community shows itself in some kinds of internal conflict, for exam
 [^12]: I suppose it is possible that one’s voice be entirely lost, for example, in cases of extreme dissociation. However, such cases are exceptional, and that such cases can be remedied suggests at least the latent presence of one’s own voice, further suggesting that the internal community does not entirely replace one’s voice.
 
 [^13]: It seems unlikely that conceptual content is ever entirely devoid of affect. That is, although it is possible to talk about conceptual content without mentioning affective content and vice versa, it seems that there is not such a sharp divide in experience. 
-
-## References
-
-Berger, Peter and Thomas Luckmann. The Social Construction of Reality: A Treatise in the Sociology of Knowledge. New York: Anchor Books, 1967.
-
-Cameron, Jessica J. and Danu Anthony Stinson. “Sociometer Theory.” In Encyclopedia of Personality and Individual Differences, 1-6. Edited by Virgil Zeigler-Hill and Todd Shackelford. New York: Springer International Publishing, 2017. https://doi.org/10.1007/978-3-319-28099-8_1187-1.
-
-Festinger, Leon. A Theory of Cognitive Dissonance. United Kingdom: Stanford University Press, 1957.
-
-Heidegger, Martin. Being and Time. Translated by Edward Robinson. New York: Harper Perennial Modern Thought, 2008.
-
-Horrigan-Kelly, Marcella, Michelle Millar, and Maura Dowling. “Understanding the Key Tenets of Heidegger’s Philosophy for Interpretive Phenomenological Research.” International Journal of Qualitative Methods 15, no. 1 (2016): 1-8. https://doi.org/10.1177/1609406916680634.
-
-Kaufman, Scott Barry. Transcend: The New Science of Self-Actualization. New York: TarcherPerigee, 2020.
-
-Leary, Mark R., Ellen S. Tambor, Sonja K. Terdal, and Deborah L. Downs. “Self-esteem as an interpersonal monitor: The sociometer hypothesis.” Journal of Personality and Social Psychology 68, no. 3 (1995): 518-530. https://doi.org/10.1037/0022-3514.68.3.518.
-
-Lerner, Jennifer S., Ye Li, Piercarlo Valdesolo, and Karim Kassam. “Emotions and Decision Making.” Annual Review of Psychology 66, (2015): 799-823. https://doi.org/10.1146/annurev-psych-010213-115043.
-
-Lieberman, Matthew D. Social: Why Our Brains Are Wired to Connect. New York: Broadway Books, 2013.
-
-Merleau-Ponty, Maurice. Phenomenology of Perception. Translated by Donald A. Landes. New York: Routledge, 2012.
-
-Siegel, Daniel J. The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are. 2nd ed. New York: The Guilford Press, 2012.
-
