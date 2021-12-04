@@ -8,3 +8,5 @@ title: Home
 
 
 ### [Notes](/notes/index)
+
+### [Articles Published Externally](/external/index)
