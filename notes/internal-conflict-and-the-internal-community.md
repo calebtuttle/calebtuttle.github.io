@@ -3,7 +3,7 @@ layout: post
 title: Internal conflict and the internal community
 ---
 
-
+Category: Psychology
 
 ## Abstract
 When talking about inner conflict, we typically make beliefs, values, and desires the adversaries in the conflict. For instance, for a person who knows (and therefore believes) smoking is bad for him, but still has the desire to smoke, the conflict is between a belief and a desire. This model, however, fails to properly characterize some kinds of inner conflict, such as socially derived conflict over one’s identity. In the first section, I use an example of such inner conflict over one’s identity to introduce the idea of the internal community. In the second section, I describe the salient characteristics of the internal community. In the third section, I show how the idea might be useful to sociometer theory and cognitive dissonance theory. In the fourth section, I respond to three potential objections, namely, that the internal community presents a problem of infinite regress, that it is reducible to memory, and that it fails to make room for affect. The fifth and final section contains a summary.
