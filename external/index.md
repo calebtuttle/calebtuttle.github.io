@@ -3,6 +3,8 @@ layout: home
 title: Articles Published Externally
 ---
 
+### [Peer-to-Peer Storage without a Blockchain: Storj](https://pulse.opsci.io/peer-to-peer-storage-without-a-blockchain-storj-256c190a85d7)
+
 ### [A Permanent Web of Linked Data: Arweave](https://pulse.opsci.io/a-permanent-web-of-linked-data-arweave-3537b0a25cd6)
 
 ### [Engineering Incentives for Data Storage as a Commodity: Filecoin](https://pulse.opsci.io/engineering-incentives-for-data-storage-as-a-commodity-filecoin-c65308a2d743)
