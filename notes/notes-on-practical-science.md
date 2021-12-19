@@ -1,8 +1,15 @@
 ---
 layout: post
-title: Virtue ethics and loss functions
+title: Notes on practical science
 ---
 
+"Just as designing algorithms for computers was originally a subject that fell into the cracks between disciplines--an odd hybrid of mathematics and engineering--so, too, designing algorithms for humans is a topic that doesn't have a natural disciplinary home." -- Brian Christian and Tom Griffiths in _Algorithms to Live By_
+
+I think we can give this topic a home. We might name it "pracitical science" after Aristotle's usage. 
+
+I think the pieces of psychology, economics, and computer science are coming together in a way that might make an extremely in-depth and robust practical science possible.
+
+## Virtue ethics and loss functions
 I want to reflect on a similarity between virtue ethics and AI research. Specifically, there's an analogy between the virtuous ideal talked about by virtue ethicists and the concept of a loss function in machine learning. The [sage](https://en.wikipedia.org/wiki/Sage_(philosophy)) provides an ideal against which we can determine whether we err with respect to virtue just as a model's [loss function](https://en.wikipedia.org/wiki/Loss_function) determines how much the model errs with respect to meeting whatever goal it happens to have.
 
 [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics) locates moral worth in the _character_ of the actor. This differs from [consequentialist ethics](https://en.wikipedia.org/wiki/Consequentialism), which locates moral worth in the consequences of an action, and from [deontological ethics](https://en.wikipedia.org/wiki/Deontology), which locates moral worth in the fulfillment of some duty.
