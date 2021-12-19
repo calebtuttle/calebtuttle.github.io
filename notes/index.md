@@ -17,4 +17,4 @@ title: Notes
 
 ### [Hash tables and Russell's theory of descriptions](/notes/hash-tables-and-russells-theory-of-descriptions)
 
-### [Virtue ethics and loss functions](/notes/virtue-ethics-and-loss-functions)
+### [Notes on practical science](/notes/notes-on-practical-science)
