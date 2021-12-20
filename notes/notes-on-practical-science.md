@@ -3,13 +3,45 @@ layout: post
 title: Notes on practical science
 ---
 
+## Introduction
 "Just as designing algorithms for computers was originally a subject that fell into the cracks between disciplines--an odd hybrid of mathematics and engineering--so, too, designing algorithms for humans is a topic that doesn't have a natural disciplinary home." -- Brian Christian and Tom Griffiths in _Algorithms to Live By_
 
 I think we can give this topic a home. We might name it "pracitical science" after Aristotle's usage. 
 
-I think the pieces of psychology, economics, and computer science are coming together in a way that might make an extremely in-depth and robust practical science possible.
+I think the pieces of psychology, economics, and computer science are coming together in a way that might make an extremely in-depth and robust practical science possible. And I think we can get far by subsuming findings from these disciplines under [Aristotle's virtue ethics](https://plato.stanford.edu/entries/aristotle-ethics/).
 
-## Virtue ethics and loss functions
+#### Why it matters
+A practical science is important because it would mean we can programmaticly define our goals as individuals and as a species. We could use this programmatic definition to get all our tools/machines/computers on the same page and directed toward _our_ goals.
+
+Goals are in every moment of human action. We get hungry, so the goal of eating forms within us and motivates us to pursue food. I walk to my car with my keys because I want to unlock my door and start my car because I want to drive to a restaurant because I'm hungry--I'm only able to eat because I've layered many goals within the one goal of satiating my hunger. Or we want a different job, so we work on developing certain skills; while developing these skills--programming, say--we develop some before others: we learn syntax, then basic data structures and algorithms, then frameworks and libraries, then complex data structures and algorithms, and then we learn how to put all of these together into a big project. We do all of this for a different job, which we probably want because we want to be happier, to experience more enjoyment at work, and a different job will help us achieve this goal.
+
+So this business of having all our machines work with us toward our goals is important.
+
+
+## Virtue Ethics in Markov Decision Processes
+From Wikipedia:
+
+> A Markov decision process is a 4-tuple (_S_, _A_, _P<sub>a</sub>_, _R<sub>a</sub>_), where:
+> * _S_ is a set of states called the state space,
+> * _A_ is a set of actions called the action space (alternatively, _A<sub>s</sub>_ is the set of actions available from state _s_),
+> * _P<sub>a</sub>_(_s_, _s'_) = Pr(_s<sub>t + 1</sub>_ = _s'_ ∣ _s<sub>t</sub>_ = _s_, _a<sub>t</sub>_ = _a_) is the probability that action _a_ in state _s_ at time _t_ will lead to state _s'_ at time _t_ + 1,
+> * _R<sub>a</sub>_(_s_, _s'_) is the immediate reward (or expected immediate reward) received after transitioning from state _s_ to state _s'_, due to action _a_
+> ...
+> 
+> A policy function pi is a (potentially probabilistic) mapping from state space (_S_) to action space (_A_).
+
+This simple formulation of a decision process is a terrific starting point for modelling agents in environments. It's so powerful that it captures features of human decision-making that have been discussed at least since Aristotle. 
+
+The state space (_S_) and the reward function (_R<sub>a</sub>_(_s_, _s'_)) are especially interesting in light of Aristotle's virtue ethics.
+
+* Policy maps to character (and habit)
+* _S_ ...
+* _A_ ...
+* _P<sub>a</sub>_(_s_, _s'_) ...
+* _R<sub>a</sub>_(_s_, _s'_) maps to pleasures and pains
+
+
+## Virtue Ethics and Loss Functions
 I want to reflect on a similarity between virtue ethics and AI research. Specifically, there's an analogy between the virtuous ideal talked about by virtue ethicists and the concept of a loss function in machine learning. The [sage](https://en.wikipedia.org/wiki/Sage_(philosophy)) provides an ideal against which we can determine whether we err with respect to virtue just as a model's [loss function](https://en.wikipedia.org/wiki/Loss_function) determines how much the model errs with respect to meeting whatever goal it happens to have.
 
 [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics) locates moral worth in the _character_ of the actor. This differs from [consequentialist ethics](https://en.wikipedia.org/wiki/Consequentialism), which locates moral worth in the consequences of an action, and from [deontological ethics](https://en.wikipedia.org/wiki/Deontology), which locates moral worth in the fulfillment of some duty.
