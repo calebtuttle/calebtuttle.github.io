@@ -3,6 +3,8 @@ layout: home
 title: Articles Published Externally
 ---
 
+### [One of the First Decentralized Cloud Storage Platforms: Sia](https://pulse.opsci.io/one-of-the-first-decentralized-cloud-storage-platforms-sia-477a82083a85)
+
 ### [Peer-to-Peer Storage without a Blockchain: Storj](https://pulse.opsci.io/peer-to-peer-storage-without-a-blockchain-storj-256c190a85d7)
 
 ### [A Permanent Web of Linked Data: Arweave](https://pulse.opsci.io/a-permanent-web-of-linked-data-arweave-3537b0a25cd6)
