@@ -8,7 +8,7 @@ title: Notes on practical science
 
 I think we can give this topic a home. We might name it "pracitical science" after Aristotle's usage. 
 
-I think the pieces of psychology, economics, and computer science are coming together in a way that might make an extremely in-depth and robust practical science possible. And I think we can get far by subsuming findings from these disciplines under [Aristotle's virtue ethics](https://plato.stanford.edu/entries/aristotle-ethics/).
+I think the pieces of psychology, economics, computer science, and even biological sciences are coming together in a way that might make an extremely in-depth and robust practical science possible. And I think we can get far by subsuming findings from these disciplines under [Aristotle's virtue ethics](https://plato.stanford.edu/entries/aristotle-ethics/).
 
 #### Why it matters
 A practical science is important because it would mean we can programmaticly define our goals as individuals and as a species. We could use this programmatic definition to get all our tools/machines/computers on the same page and directed toward _our_ goals.
@@ -19,7 +19,7 @@ So this business of having all our machines work with us toward our goals is imp
 
 
 ## Virtue Ethics in Markov Decision Processes
-From Wikipedia:
+From [Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process):
 
 > A Markov decision process is a 4-tuple (_S_, _A_, _P<sub>a</sub>_, _R<sub>a</sub>_), where:
 > * _S_ is a set of states called the state space,
@@ -28,17 +28,28 @@ From Wikipedia:
 > * _R<sub>a</sub>_(_s_, _s'_) is the immediate reward (or expected immediate reward) received after transitioning from state _s_ to state _s'_, due to action _a_
 > ...
 > 
-> A policy function pi is a (potentially probabilistic) mapping from state space (_S_) to action space (_A_).
+> A policy function π is a (potentially probabilistic) mapping from state space (_S_) to action space (_A_).
 
 This simple formulation of a decision process is a terrific starting point for modelling agents in environments. It's so powerful that it captures features of human decision-making that have been discussed at least since Aristotle. 
 
-The state space (_S_) and the reward function (_R<sub>a</sub>_(_s_, _s'_)) are especially interesting in light of Aristotle's virtue ethics.
+The reward function (_R<sub>a</sub>_(_s_, _s'_)) and policy (π) are especially interesting in light of Aristotle's virtue ethics.
 
-* Policy maps to character (and habit)
-* _S_ ...
-* _A_ ...
-* _P<sub>a</sub>_(_s_, _s'_) ...
-* _R<sub>a</sub>_(_s_, _s'_) maps to pleasures and pains
+**Reward function**
+
+The reward function is interesting because it _motivates_ the agent, and Aristotle spends much time thinking about human motivation. We might even say the reward function _moves_ the agent--just like food moves the hungry person. The reward function tells the expected value of a state. States with higher expected values are more motivating, more inviting than states with lower expected values. 
+
+For Aristotle, virtue entails being pleased and pained by the right things. For example, the temperate person enjoys eating just the right amount, not more, not less. The temperate person is moved by the right foods in just the right way. When standing in the kitchen in between the food pantry and refrigerator, the hungry temperate person is moved by the foods that will healthfully satiate them. If, while standing in this kitchen, the possible actions for the temperate person are (1) eat three birthday cakes, (2) eat something that is proper for them specifically at this specific time, or (3) eat nothing, the temperate person will choose (2) and will have zero internal strife about the decision. They will not have to convince themselves to not eat the birthday cakes, and they won't have to convince themselves to eat something. The motivation is baked into their reward function.
+
+And this example brings up a point about Aristotle's hypothetical reward function...
+
+The reward function for Aristotle is more a function of both the action and the state. It might look like this: _R_(_a_, _s_, _s'_) where the action is given much more weight than either state. Why? Because the outcome is important but out of our control, and being a good person should depend more on how we act than on what happens. 
+
+(I also think assigning more value to actions than states is a better way of dealing with uncertainty. By consistently making good decisions, one maximizes one's chances--in every circumstance--of bringing about desirable states, even if there are extremely rare cases in which such an action causes an undesirable state. Valuing states more than actions might be good for an omniscient agent, but... humans aren't omniscient.)
+
+
+**Policy**
+
+Policy maps to habit, character.
 
 
 ## Virtue Ethics and Loss Functions
