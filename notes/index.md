@@ -5,6 +5,8 @@ title: Notes
 
 ### [Notes on friendship](/notes/notes-on-friendship)
 
+### [Notes on practical science](/notes/notes-on-practical-science)
+
 ### [The decision-making function - notes](/notes/decision-making-function-notes)
 
 ### [Maslow's Hierarchy of Needs as a utility function](/notes/maslows-hierarchy-of-needs-as-a-utility-function)
@@ -17,4 +19,3 @@ title: Notes
 
 ### [Hash tables and Russell's theory of descriptions](/notes/hash-tables-and-russells-theory-of-descriptions)
 
-### [Notes on practical science](/notes/notes-on-practical-science)
