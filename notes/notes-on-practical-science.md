@@ -4,18 +4,24 @@ title: Notes on practical science
 ---
 
 ## Introduction
-"Just as designing algorithms for computers was originally a subject that fell into the cracks between disciplines--an odd hybrid of mathematics and engineering--so, too, designing algorithms for humans is a topic that doesn't have a natural disciplinary home." -- Brian Christian and Tom Griffiths in _Algorithms to Live By_
+I want to consider _pracitical science_ in the context of modern science and AI.
 
-I think we can give this topic a home. We might name it "pracitical science" after Aristotle's usage. 
+I think the pieces of psychology, economics, computer science, and even biological sciences are coming together in a way that might make an extremely in-depth and robust practical science possible. (We even see parts of a practical science in places such as [the _Huberman Lab_ podcast](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg).) And I think we can get far by subsuming findings from these disciplines under [Aristotle's ethics](https://plato.stanford.edu/entries/aristotle-ethics/).
 
-I think the pieces of psychology, economics, computer science, and even biological sciences are coming together in a way that might make an extremely in-depth and robust practical science possible. And I think we can get far by subsuming findings from these disciplines under [Aristotle's virtue ethics](https://plato.stanford.edu/entries/aristotle-ethics/).
+A clarification of the Aristotelian sense of "practical science" from the _[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle/)_:
+
+> (ii) [Practical sciences] deal with conduct and action, both individual and societal. Practical science thus contrasts with theoretical science, which seeks knowledge for its own sake, and, less obviously, with the productive sciences, which deal with the creation of products external to sciences themselves. Both politics and ethics fall under this branch.
+
+A significant portion of Aristotle's _Nicomachean Ethics_ is dedicated to _psychological_ and _biological_ mechanisms that influence action. Although Aristotle is sometimes referenced in contemporary psychological literature, I don't think the well's run dry--I think we can stil learn from him. We can learn from Aristotle's integration of both _how_ the human being works and _what_ the human being is directed toward (or should be directed toward).
+
+With the amazing work from the sciences, we can upgrade Aristotle's views of mechanisms and better service (and maybe even define) our goals.
 
 #### Why it matters
 A practical science is important because it would mean we can programmaticly define our goals as individuals and as a species. We could use this programmatic definition to get all our tools/machines/computers on the same page and directed toward _our_ goals.
 
 Goals are in every moment of human action. We get hungry, so the goal of eating forms within us and motivates us to pursue food. I walk to my car with my keys because I want to unlock my door and start my car because I want to drive to a restaurant because I'm hungry--I'm only able to eat because I've layered many goals within the one goal of satiating my hunger. Or we want a different job, so we work on developing certain skills; while developing these skills--programming, say--we develop some before others: we learn syntax, then basic data structures and algorithms, then frameworks and libraries, then complex data structures and algorithms, and then we learn how to put all of these together into a big project. We do all of this for a different job, which we probably want because we want to be happier, to experience more enjoyment at work, and a different job will help us achieve this goal.
 
-So this business of having all our machines work with us toward our goals is important.
+Goals are everywhere, and it would be great to have our machines work with us. (I'm far from the first person to make this claim.)
 
 
 ## Virtue Ethics in Markov Decision Processes
