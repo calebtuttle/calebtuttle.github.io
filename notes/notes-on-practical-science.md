@@ -17,7 +17,7 @@ A significant portion of Aristotle's _Nicomachean Ethics_ is dedicated to _psych
 With the amazing work from the sciences, we can upgrade Aristotle's views of mechanisms and better service (and maybe even define) our goals.
 
 #### Why it matters
-A practical science is important because it would mean we can programmaticly define our goals as individuals and as a species. We could use this programmatic definition to get all our tools/machines/computers on the same page and directed toward _our_ goals.
+A practical science is important because it would mean we can programmaticly define our goals as individuals and as a species. We could use this programmatic definition to get all our tools/machines/computers on the same page and directed toward _our_ goals. But creating powerful computers and programmatically instantiating our goals is not the difficulty here. We've done that, for the most part. The greater difficulty is identifying our goals, figuring out what we should actually tell the machines to do. We could frame this as [the alignment problem](https://en.wikipedia.org/wiki/AI_control_problem#Alignment), but the problem of identifying our goals and creating tools to meet those goals is as old artifacts themselves. The alignment problem is just a more pronounced version. Anyway, identifying our goals/values is an urgent one but also an ancient one. The ancient conception of a practical science that identifies humanity's goals and uses understanding of intra-human mechanisms to turn humans toward these goals might benefit us in the 21st century.
 
 Goals are in every moment of human action. We get hungry, so the goal of eating forms within us and motivates us to pursue food. I walk to my car with my keys because I want to unlock my door and start my car because I want to drive to a restaurant because I'm hungry--I'm only able to eat because I've layered many goals within the one goal of satiating my hunger. Or we want a different job, so we work on developing certain skills; while developing these skills--programming, say--we develop some before others: we learn syntax, then basic data structures and algorithms, then frameworks and libraries, then complex data structures and algorithms, and then we learn how to put all of these together into a big project. We do all of this for a different job, which we probably want because we want to be happier, to experience more enjoyment at work, and a different job will help us achieve this goal.
 
@@ -25,6 +25,9 @@ Goals are everywhere, and it would be great to have our machines work with us. (
 
 
 ## Virtue Ethics in Markov Decision Processes
+
+... TOOD: Draw analogy between inverse reinforcement learning and the role of the Stoic sage (which, for Aristotle, seems to be referenced only as "the practically wise person") in virtue ethics ...
+
 From [Wikipedia](https://en.wikipedia.org/wiki/Markov_decision_process):
 
 > A Markov decision process is a 4-tuple (_S_, _A_, _P<sub>a</sub>_, _R<sub>a</sub>_), where:
