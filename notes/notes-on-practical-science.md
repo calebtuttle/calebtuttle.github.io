@@ -4,6 +4,8 @@ title: Notes on practical science
 ---
 
 ## Introduction
+I haven't found a good heading for these ideas. "Practical science" is the best I can do for now. I also feel that the ideas here are connectable (e.g., the biology of hunger can be connected to philosophy of action and the philosophy of action connected to psychology of pleasure, to ethics, and to Markov Decision Processes, and all of this seems to be relavent for discussions of forming and automating goals to live the kind of life one wants to live), but due to time constraints, I haven't been able to try to connect them, even if to only see _whether_ they relate to each other in ways it would be fruitful to consider. With that...
+
 I want to consider _pracitical science_ in the context of modern science and AI.
 
 I think the pieces of psychology, economics, computer science, and even biological sciences are coming together in a way that might make an extremely in-depth and robust practical science possible. (We even see parts of a practical science in places such as [the _Huberman Lab_ podcast](https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg).) And I think we can get far by subsuming findings from these disciplines under [Aristotle's ethics](https://plato.stanford.edu/entries/aristotle-ethics/).
