@@ -3,7 +3,7 @@ layout: home
 title: Notes
 ---
 
-### [Notes on friendship](/notes/notes-on-friendship)
+<!-- ### [Notes on friendship](/notes/notes-on-friendship) -->
 
 ### [Notes on practical science](/notes/notes-on-practical-science)
 
