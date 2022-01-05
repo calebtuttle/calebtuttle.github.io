@@ -3,11 +3,9 @@ layout: post
 title: The decision-making function - notes
 ---
 
-Maybe we can represent the human actor as a function of functions.
+Maybe we can represent the human actor as a function of functions. We can call it _the decision-making function_.
 
-I want to introduce a thought: the decision-making function. This thought represents the mixture in my head of ideas from Aristotle, Kant, and my experience as a programmer.
-
-I think the decision-making function could be regarded as an interpretation of Aristotle's *Nicomachean Ethics* inspired by Kant's *Critique of Pure Reason*. I only point this out to potentially help the reader understand this mixture of ideas, not because I think I have a superior understanding of these texts. 
+I think the decision-making function could be regarded as an interpretation of Aristotle's *Nicomachean Ethics* inspired by Kant's *Critique of Pure Reason*.
 
 Before diving into the idea, I want to pass through these texts, coming out the other side with a few intellectual apparatus.
 
@@ -19,6 +17,6 @@ Aristotle *Ethics*, I think, is as much about *how* we make decisions as about w
 
 From Aristotle, I want to keep both the idea that humans have multiple decision-making components and the idea that humans settle into habits which can be optimized toward goals.
 
-I want to combine these ideas from Kant and Aristotle. In this concoction of ideas, the function of unity will be the human qua decision-making organism. This function of unity will be composed of rational and irrational parts. And this function of unity (and its parts) will be capable of falling into patterns and determining which patterns are worth falling into. We might call this result *the decision-making function*--a composite of probabilistic and more or less hierarchical rules which govern behavior (and influence what the *process* of reaching a decision feels like).
+Combining these ideas from Kant and Aristotle we get a concoction that might look like this: The function of unity will be the human qua decision-making organism. This function of unity will be composed of rational and irrational parts. And this function of unity (and its parts) will be capable of falling into patterns and determining which patterns are worth falling into. We might call this result *the decision-making function*--a composite of probabilistic and more or less hierarchical rules which govern behavior (and influence what the *process* of reaching a decision feels like).
 
 "Decision-making function" is a slight misnomer because "decision" might imply highly cognitive processes. If we imagine a ladder of cognition--where pure math is at the top and motor movements near the bottom--the decision-making function applies to every rung on the ladder. Like Aristotle, I want a vocabulary that allows us to discuss and optimize even decisions which are unreflective. "Deciding" when to stop eating is an example of an unreflective decision. Unless someone is deliberately trying to undo some of their eating habits, they do not reflect on when to stop eating. All of the "reflection" of such a decision is in the body--the hands, the mouth, the eyes, the stomach. The hand puts down the fork, the jaw stops chewing, etc.
