@@ -3,6 +3,8 @@ layout: home
 title: Notes
 ---
 
+
+
 <!-- ### [Notes on friendship](/notes/notes-on-friendship) -->
 
 ### [Notes on practical science](/notes/notes-on-practical-science)
@@ -15,7 +17,7 @@ title: Notes
 
 ### [Notes on an analogy between Aristotle's potency-activity coupling and functions in programming](/notes/notes-on-the-analogy-between-a-potency-activity-and-a-function)
 
-### [Internal conflict and the internal community](/notes/internal-conflict-and-the-internal-community)
+<!-- ### [Internal conflict and the internal community](/notes/internal-conflict-and-the-internal-community) -->
 
 ### [Hash tables and Russell's theory of descriptions](/notes/hash-tables-and-russells-theory-of-descriptions)
 
