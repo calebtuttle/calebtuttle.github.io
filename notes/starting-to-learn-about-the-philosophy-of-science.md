@@ -21,4 +21,4 @@ To illustrate, consider the following elementary claim: Water, H<sub>2</sub>O, t
 
 Knowledge that comes in the form of big data and big ML models is harder to descipher. We haven't--or most of us haven't--developed the ability to communicate with these tools. We know some basic statistics, like the average, but only a very, very small percent of the human species is able to understand what these data and models are capable of saying. 
 
-Anyway, a decentralized commons and marketplace for "knowledge assets" such as data and algorithms might help.
+Anyway, a [decentralized commons](https://pulse.opsci.io/rich-in-data-poor-in-wisdom-science-needs-a-decentralized-data-commons-98c7ffdb56a1) and marketplace for "knowledge assets" such as data and algorithms might help.
