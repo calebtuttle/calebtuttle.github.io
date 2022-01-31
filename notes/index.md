@@ -7,6 +7,8 @@ These are just notes. Sometimes I think thoughts, don't have time to develop the
 
 <!-- ### [Notes on friendship](/notes/notes-on-friendship) -->
 
+### [DeSci Syllabus]((/notes/desci-syllabus)
+
 ### [I'm starting to learn about the philosophy of science](/notes/starting-to-learn-about-the-philosophy-of-science)
 
 ### [Notes on practical science](/notes/notes-on-practical-science)
