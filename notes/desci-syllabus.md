@@ -35,6 +35,8 @@ The syllabus is meant for those who have minimal exposure to both DeSci and Web3
 - OpenAccessDAO
 - [Include [Trent McConaghy's article on token engineering](https://blog.oceanprotocol.com/towards-a-practice-of-token-engineering-b02feeeff7ca)]
 
+### Knowledge Graphs
+
 
 ## Web3
 - [Article on Web3 with Dr. Gavin Wood, the person who coined the term "Web3".](https://www.wired.com/story/web3-gavin-wood-interview/) 
