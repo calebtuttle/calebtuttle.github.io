@@ -3,6 +3,14 @@ layout: home
 title: Articles Published Externally
 ---
 
+## Papers
+
+### [An Active Inference Ontology for Decentralized Science: from Situated Sensemaking to the Epistemic Commons](https://zenodo.org/record/6320575#.YiTmLt9OluU)
+(Preprint. I contributed to the review of Web3 technologies used in DeSci.)
+
+
+## Blog Posts
+
 ### [The World Computer's Hard Drive: Swarm](https://pulse.opsci.io/the-world-computers-hard-drive-swarm-24d3b47ef915)
 
 ### [One of the First Decentralized Cloud Storage Platforms: Sia](https://pulse.opsci.io/one-of-the-first-decentralized-cloud-storage-platforms-sia-477a82083a85)
