@@ -2,14 +2,71 @@
 layout: post
 title: Salience Maps of Affordances - Potential Applications in Psychology
 ---
-
-(Originally titled "Sentimentalism, Personality, and Affordances")
 # Saliency Maps of Affordances - Applications in Psychology
 
 ### Abstract
 [This abstract makes the paper only kind of interesting. Go bigger: "saliency map of affordances" applies to all study of affordances (i.e., all perception/action).]
+[No. Actually just stick with personality.]
 
 The concept of a "saliency map of affordances" is mentioned in computer vision studies. However, to my knowledge, the concept has no mentions in the psychology [TODO: psychology of???] literature. This paper introduces the idea of a saliency map of affordances into personality psychology. I argue that personality should be defined not in terms of traits but in terms of saliency maps of affordances. I also explore other potential uses of the concept of saliency maps of affordances for psychology.
+
+<hr/>
+
+Abstract
+
+I. Introduction.
+    a. Personality theory is not detailed enough.
+    b. Define "affordance" (including mental affordances)
+    c. Define salience map
+    d. My proposal: salience map of affordances
+II. Methodology. How do we study physical and mental affordances?
+    a. Language (i.e., big data text-mining with ML)
+    b. Physiological markers (e.g., eye-tracking, long-term: reading minds/subvocalization, recording of potentiation)
+III. Models and Simulations
+    a. We could model this view with Active Inference [can we actually?!]. In the POMDP, the human agent's curiosity is triggered by different things. There are two ways we can thus differentiate agents. Either (a) each agent is in a different state space, or (b) each agent is in the same state space but is differently affected by the same states. These would be mathematically equivalent, I think. The difference is just where the mathematical difference is located. Either the numeric difference is in the state space (a), or the numeric difference is a result of operations within the policy function (b). 
+
+
+## Introduction
+### [Personality theory (i.e., Big Five) isn't detailed enough.]
+[TODO]
+
+### Saliency Map of Affordances
+#### Affordance
+[TODO]
+From ([McClelland 2019](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordance-hypothesis-McClelland-2019.pdf)): 
+> "Affordances are opportunities for action. A teapot, for example, has the property of being grippable. When a subject grips the teapot, she exploits this affordance. The concept of affordances, introduced by the ecological psychologist J.J. Gibson (1966), has been applied extensively across a range of disciplines." 
+
+#### Saliency map
+[TODO]
+From ([Niebur 2007](http://www.scholarpedia.org/article/Saliency_map)):
+> The Saliency Map is a topographically arranged map that represents visual saliency of a corresponding visual scene. 
+
+Example (of a salience map used in an ML application):
+![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210722235025/Saliency-maps-generated-using-Grad-CAM-Grad-CAM-and-Smooth-Grad-CAM-respectively_W640.jpg)
+
+#### Saliency map of affordances
+[TODO: Make a really strong argument for the existence of affordance saliency maps!]
+From a "menu" of affordances, some are more salient than others. We might say some affordances have greater weight than others. 
+
+A number of factors can modulate the salience of an affordance. For the sake of this paper, the details of these modulations are unimportant. However, the fact that there are such modulations is interesting. On the physiological level, all of these factors are hormonal or neurological. 
+[TODO: list physiological modulations of affordance salience]
+
+Given that each person in each situation is presented with a set of affordances, some of which are more salient than others (i.e., have greater weight in the affordance saliency map), and that these affordances are modulated by physiological occurrences, it seems plausible that, even within an identical physical environment, one person's affordance saliency map will differ from anothers insofar as the relevant physiological items differ. In other words, perception of opportunities for action likely differs between people. 
+
+It is an established empircal fact that two people can perceive the same object differently (see [TODO: insert citation for perceiving colors differently or something like that]). Given this, it seems intuitive that two people can unconsciously assign different weights to the same affordances.
+
+I believe my claim is uncontroversial when we only consider affordances for bodily action but becomes more interesting when we consider affordances for mental action. [McClelland (2019)](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordance-hypothesis-McClelland-2019.pdf) convincingly argues for the mental affordance hypothesis (MAH), which states that we are sensitive to affordances for mental action. If we extend my claim to mental affordances, then not only do people differently perceive physical affordances, but people also differently perceive conceptual, mathematical, recollective, imaginative, conversational, social, etc. affordances. 
+
+[TODO]
+Big idea, stated vaguely: Different categories/dimensions of reality *pop* for different people. I am more apt to notice *x*. You are more apt to notice *y*.
+
+
+
+
+<hr/>
+
+Comment:
+Trait personality theories are somewhat naive. By emphasizing traits, these theories downplay the role of change, activity, and motion within personality. We might liken trait theories to an approach to the study of inanimate objects. In this approach, we would describe a bouncy ball by listing its color, size, material, and briefly mention that it can bounce, without describing how it bounces or the circumstances in which it is incapable of bouncing. But the situation with trait personality theories is even worse than this analogy suggests because all the interesting aspects of humans have to do with their bouncing! I want to know how the extravert *extraverts*, how the open person *bes open* ("bes", pronounced "beez", is the same as "is", just more connotative of activity), how the contientious person bes contientious--and why. Traits are static, not dynamic. They might be informative over time periods of weeks, months, or years, but they tell us little about what happens on a timescale of minutes. The "traits" observable on the scale of weeks are the product of actions taken on the scale of minutes and seconds. 
 
 <hr/>
 
@@ -18,7 +75,7 @@ Define these terms:
   - Review its uses in various fields (especially computer vision)
 - Affordance
   - An affordance is a capacity for action. 
-    - "The most vivid cases of affordance perception are those in which we experience an action not just as *available* but as positively *solicited*."
+    - "The most vivid cases of affordance perception are those in which we experience an action not just as *available* but as positively *solicited*." "Perhaps the metaphor of solicitation can be cashed out in terms of the afforded action being strongly potentiated" (p. 9).
       - Source: [McClelland](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordance-hypothesis-McClelland-2019.pdf)
       - NOTE: Maybe we think of the salience map as accounting for this? Not only are certain actions differently available to different people, but certain actions are differently inviting.
         - For example, the screaming baby solicits the mother's response more than a stranger's response.
@@ -28,6 +85,8 @@ Define these terms:
       - See: [McClelland, *The Mental Affordance Hypothesis*](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordance-hypothesis-McClelland-2019.pdf)
 
 With the above terms in mind, the following claim is meaningful. *Each person has a different saliency map of affordances*. Each person's default saliency map is different.
+
+Why does this matter for psychology? Reframing personality in terms of affordance saliency maps allows for more granular interpretations of the data. It provides a framework for detailed portraits of differences between humans. These detailed portraits can be useful within technologies. For example, they might be used to help students determine what kind of careers they are interested in, what might motivate someone, etc.
 
 I care about this because we can use this concept with technology. We can develop apps and devices that help us cultivate the affordance saliency maps we want, the ones that help us live the best lives.
 
@@ -44,6 +103,9 @@ My contention is that everyone experiences this with something. For any person, 
 The generalized version of this claim is that *each person has a distinct saliency map of affordances*. The average affordance saliency map for the whole population is not entirely noisy because some affordances (e.g., things that can be grasped with hands, social cues) are pressing by virtue of being affordances for humans. However, there are distinctions between individuals; the examples above illustrate this point.
 
 A difference that will be very difficult to measure and is difficult to articulate has to do with affordances of thought. Not all affordances are physical. My environment does not only afford me the opportunity to pick up a book. It also affords me the opportunity to read the book and think thoughts I have never before thought. But affordances of thought apply to more than reading. Memories are affordances of thought. Imaginings are affordances of thought. Even these are on the affordance saliency map. People's attitude toward and perception of these vary. The saliency map of affordances thus includes: physical affordances, social affordances, imagination affordances, memory affordances (and others?).
+
+
+By the way, note somewhere that emotions/affect/mood and other things (such as drugs, stress, physical touch with close humans) *modulate* perception at small timescales (i.e., seconds, minutes, maybe hours? Whatever timescale the chemicals involved opperate on is the timescale of the modulations).
 
 
 <hr/>
