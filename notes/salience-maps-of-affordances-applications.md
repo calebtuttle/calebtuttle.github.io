@@ -41,7 +41,7 @@ From ([McClelland 2019](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordanc
 From ([Niebur 2007](http://www.scholarpedia.org/article/Saliency_map)):
 > The Saliency Map is a topographically arranged map that represents visual saliency of a corresponding visual scene. 
 
-Example (of a salience map used in an ML application):
+Example (of a saliency map used in an ML application):
 ![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210722235025/Saliency-maps-generated-using-Grad-CAM-Grad-CAM-and-Smooth-Grad-CAM-respectively_W640.jpg)
 
 #### Saliency map of affordances
@@ -51,17 +51,60 @@ From a "menu" of affordances, some are more salient than others. We might say so
 A number of factors can modulate the salience of an affordance. For the sake of this paper, the details of these modulations are unimportant. However, the fact that there are such modulations is interesting. On the physiological level, all of these factors are hormonal or neurological. 
 [TODO: list physiological modulations of affordance salience]
 
-Given that each person in each situation is presented with a set of affordances, some of which are more salient than others (i.e., have greater weight in the affordance saliency map), and that these affordances are modulated by physiological occurrences, it seems plausible that, even within an identical physical environment, one person's affordance saliency map will differ from anothers insofar as the relevant physiological items differ. In other words, perception of opportunities for action likely differs between people. 
+Given that each person in each situation is presented with a set of affordances, some of which are more salient than others (i.e., have greater weight in the affordance saliency map), and that these affordance weights are modulated by physiological occurrences, it seems plausible that, even within an identical physical environment, one person's affordance saliency map will differ from anothers insofar as the relevant physiological items differ. In other words, perception of opportunities for action likely differs between people. 
 
 It is an established empircal fact that two people can perceive the same object differently (see [TODO: insert citation for perceiving colors differently or something like that]). Given this, it seems intuitive that two people can unconsciously assign different weights to the same affordances.
 
-I believe my claim is uncontroversial when we only consider affordances for bodily action but becomes more interesting when we consider affordances for mental action. [McClelland (2019)](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordance-hypothesis-McClelland-2019.pdf) convincingly argues for the mental affordance hypothesis (MAH), which states that we are sensitive to affordances for mental action. If we extend my claim to mental affordances, then not only do people differently perceive physical affordances, but people also differently perceive conceptual, mathematical, recollective, imaginative, conversational, social, etc. affordances. 
+I believe my claim is uncontroversial when we only consider affordances for bodily action but is more interesting when we consider affordances for mental action. [McClelland (2019)](http://wrap.warwick.ac.uk/116500/2/WRAP-mental-affordance-hypothesis-McClelland-2019.pdf) convincingly argues for the mental affordance hypothesis (MAH), which states that we are sensitive to affordances for mental action. If we extend my claim to mental affordances, then we are adopting the view that not only do people differently perceive physical affordances, but people also differently perceive conceptual, mathematical, recollective, imaginative, conversational, social, etc. affordances.
+
+I want to argue that this is the case, that we differently perceive both physical and mental affordances. I want to apply this view to personality theory. I believe we can study some aspects of personality in greater detail by recognizing these differences in perception. I believe it might help us collapse some so-called disorders, particularly autism, into personality or, rather, that it will afford us an integrative framework in which we can consider detailed differences between humans while being agnostic to whether such differences fall under the category of personality, of psychopathology, of culture, or of something else.
 
 [TODO]
+
 Big idea, stated vaguely: Different categories/dimensions of reality *pop* for different people. I am more apt to notice *x*. You are more apt to notice *y*.
 
 
+<hr/>
 
+Starting to approach an ActInf-inspired understanding of this idea...
+
+According to the Free Energy Principle, a person will persue data that conforms to their current model of the world. I think people differently perceive the world (such that some people are almost blind to certain aspects of the world that others are very perceptive of), which leads to differences in models of the world, i.e., differences in what kinds of data each person regards as perceptible or relevant to the model. This difference in what we regard as perceptible or relevant leads to differences in motivation and personality. One person updates their model with a certain kind of data, while another person updates their model with another kind of data. [Cite example of differences between me and my family members.] 
+
+These differences in what is relevant or perceptible are not just cultural. There is work in the literature on, for example, how people of different political allegiances perceive news and events differently. This kind of difference is important but still broad, high level.
+
+The differences I have in mind are much more detailed. 
+
+Each person, I think, is born with a default model, and this model determines which kinds of data are relevant. The model is encultured, sure, leading to cultural differences. But genetic differences have a lasting impact on the model. 
+
+The default model sets in motion a life-long trajectory of beliefs about what the world is constituted by, i.e., about what categories of data are pertinent to one's model. The differences in default models lead to different motivational vectors, different interests, different personalities because people's perceptions differ such that, of the set of all aspects of the world, a person's model will be naturally blind to some subset of those aspects. More accurately, they might not be blind, but they will likely have very poor vision for detecting certain aspects. 
+
+We might think of differences in perception in term of a Venn diagram. Given the infinite background of aspects of the world, each person's model is a circle capturing a fraction of these aspects. This circle overlaps significantly with the circles of others. All of us, for example, experience a physical world with dirt, rocks, sand, water, etc. Nearly all of us live in society and experience social affordances, such as facial expressions. Probably all of us experience hunger, thirst, and sleepiness. However, we diverge at various points. One person might have slightly greater talent in throwing objects. Another might have greater talent deciphering facial expressions. Another might have greater talent discerning or controlling their hunger. I speculate that there are only a finite number of ways our perceptions can differ, so there must be small clusters of overlapping circles. For example, there is probably more overlap between the circles of two philosophers than between a circle of a philosopher and a circle of surgeon.
+
+These differences in perception lead to differences in action. We perceive different things, and so we act on different things (mental and physical).
+
+We grow up--and most humans live most of their lives--assuming everyone else has the same model as one's own. We believe every person perceives what I perceive.
+
+We can no doubt cultivate perception of different aspects of the world. We are not all endowed with equal cultivate-ability with respect to perception, though. Some people, such as I, will never be masters at maneuvering through space, while others will never be able to appreciate Mozart.
+
+Howard Gardner's theory of multiple intelligences likely gives us a good starting point for thinking about how each of us is born with different models (and thus with different abilities to perceive various aspects of the world).
+
+Aside: I'm using "world" here to refer to all possible human experience, including items classified as "subjective" and items classified as "objective." In this use, one aspect of the world is the mathematics that describes the motion of planets. Another aspect is the planets themselves. Another aspect is the happiness one experiences learning this math.
+
+
+From [this paper](https://www.sciencedirect.com/science/article/pii/S0022249621000973#b61):
+> To make decisions, an agent requires a means of assigning higher value to one policy over another. This in turn requires that some observations are preferred over others. One of the more (superficially) counterintuitive aspects of active inference is the way it formalizes preferences. This is because there are no additional variables labeled as ‘rewards’ or ‘values’. Instead, preferences are encoded within a specific type of prior probability distribution — which is often called a ‘prior preference distribution’. This distribution is often simply denoted as ; however, the term is also used in other ways, which can be a source of confusion. Therefore, we will instead represent this distribution as , where the variable denotes the agent’s preferences (Parr, Pezzulo, & Friston, 2022). In this distribution, observations with higher probabilities are treated as more rewarding. Note that this is distinct from priors over states, , which encode beliefs about the true states of the world (i.e., irrespective of what is preferred).
+
+From [the same paper](https://www.sciencedirect.com/science/article/pii/S0022249621000973#b61):
+> ... the task of action selection and planning is to select policies that will bring about future observations that minimize. The problem is, of course, that future outcomes have not yet been observed. Actions must therefore be selected such that they minimize expected free energy (). Crucially, scores the expected cost (i.e., a lower value indicates higher reward) minus the expected information gain of an action. *This means that decisions that minimize seek to both maximize reward and resolve uncertainty*. [Emphasis mine.] When beliefs about states are very imprecise or uncertain, actions will tend to be information-seeking. Conversely, selected actions will tend to be reward-seeking when confidence in beliefs about states is high (i.e., when there is no more uncertainty to resolve and the agent is confident about what to do to bring about preferred outcomes).
+
+Under the view that people minimize Expected Free Energy (EFE) and that each person has a different ability to perceive various aspects of the world, we would say that people will experience greater uncertainty/ambiguity about those aspects of the world of which they are most perceptive. Someone who is most perceptive of some world-aspect will perceive a greater *number* of capacities for action (including mental capacities for action) within this aspect, not just a greater salience of the same capacities for action that a poor-perceiver experiences. This greater uncertainty leads some to act on the aspects of the world they perceive the best. [TODO: Somewhere, pursue this question: What we perceive is partially a function of what our (Maslowian) needs are.]
+
+This might be counterintuitive, but the idea here is that ignorance is bliss. Someone who poorly perceives some aspect of the world will experience less uncertainty about that aspect because they do not perceive enough information to be hit by the ambiguities. They do not know what they do not know. The same person, however, can excellently perceive some other aspect of the world. In this case, the person will be more aware of what they do not know and so will experience a greater frequency of uncertainties (even if they quickly resolve these uncertainties, i.e., minimize EFE).
+
+
+Although I am putting forward that there are different aspects of the world and that not each aspect is perceived equally by every human, I do not claim to know exactly what these aspects are. I think Howard Gardner's theory of multiple intelligences gives us a good starting point for thinking about them. However, I think trying to categorize these aspects is the wrong approach, and I want to allow as many bottom-up determinations as possible. In fact, I want my approach to be open to representing new aspects of reality, aspects which we might encounter through technology or through some other means. Categories are useful for natural language. Natural language accomodates reasoning in categories very well, but it fails to accomodate more continuous reasoning. Mathematics along with big data and ML techniques allows for more accurate representations of continuous variables. 
+
+**Note on Gardner's Multiple Intelligences theory.** I think Gardner was correct to point out that people differ in their propensity to perform well in one area or another, but I think the cause of these differences is motivation or perception, not intelligence. I think it is possible that Gardner saw differences in performance in the areas of intelligence that he posited and that he believed these differences must be due to intelligence. I think we can acknowledge that people differ along the axes outlined by Gardner but also along the axis of General Intelligence. If we take this position, differences in performance accross the domains that Gardner focused on are the result of motivation, perception, or both. I think the differences have much less to do with intelligence than with these other factors.
 
 <hr/>
 
