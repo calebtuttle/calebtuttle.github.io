@@ -205,3 +205,13 @@ To relate these thoughts to what actually matters in life, we might be able to l
 
 
 Note to self: The idea of an "affordive weight" is present in this paper on autonomous driving: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9656596. It is also present here as "affordance weight": https://www.google.com/books/edition/Principles_and_Practice_of_Multi_Agent_S/CKP6_JD8msYC?hl=en&gbpv=1&dq=%22affordance+weight%22&pg=PA316&printsec=frontcover. It is probably present in many other AI papers.
+
+
+<hr/>
+Rabit or undetached rabit parts? Rabit, of course. Once locked onto an empirical object as simple as a rabit, people--no matter their culture or language--notice mostly the same essence. The interesting point is that some people notice the rabit while others do not. Some people are naturally good at noticing rabits; others must be trained. 
+
+My claim above is uninteresting when applied to rabits, but people do not only differ in their ability to perceive certain objects or even in their ability to perceive certain aspects of objects (e.g., its speed or size). People also differ in their ability and tendency to perceive mental objects. Consider all the items and aspects available to perception--along all dimensions of perception, people differ in their perceptual abilities. 
+
+What does a human perceive? Objects and their colors, sizes, shapes, and motions--yes--but also their own emotions, the emotions of others, the likeness or analogy between this rabit and that rabit, the difference between rabits in general and dogs in general, the fact that one can perceive the fact and even nature of one's own perception, the motivations and objects that move one to act, the motivations that move others to act, and so on. In each of these and more, we differ in competence. 
+
+Although we could, we do not need to posit that each of us has a fundamentally different structure of perception to account for the obvious empirical fact that people behave differently. We only need to consider possible modulations of perception: Along what dimmensions can perception be more or less competent?
