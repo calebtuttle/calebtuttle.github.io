@@ -1,7 +1,39 @@
-# Social Connection Derives From Joint Attention
+# What is Social Contact?
+[Previously: Social Connection Derives From Joint Attention]
+
+
+## 1. Introduction
+
+Structure of introduction:
+1. The importance of social connection is well established, but no evolutionary psychological mechanism has been proposed to account for social connection. This paper contains such an account. I hypothesize that feelings of social connection derive from instances of aligned-valence joint attention in cooperative situations. I then use an evolutionary psychology perspective to account for why social connection might derive from such joint attention. I propose that joint attention provides signals about cooperative and uncooperative motivations of others and that feelings of social connection are encodings of these person-wise signals. [PROBABLY DELETE: Finally, I suggest that the means by which feelings of social connection persist is analogous to the means by which a habit persists.]
+2. Social connection is a form of belongingness. Discuss Baumeister & Leary's sociometer theory and belongingness hypothesis. My perspective is in the same vein as sociometer theory.
+3. Introduction to the evolutionary psychology perspective. Cooperation and competition.
+4. Joint attention. What is attention? What is joint attention (especially in developmental psychology, especially attachment theory: joint attention is important for infants to form a secure attachment style.)?
+   1. Responsiveness correlates with being regarded as likely to be a good friend (Davis & Perkowitz 1979). How does my focus on joint attention help us understand social connection better than a focus on responsiveness might help us?
+5. Joint action and social connection. Joint attention in capitalization research, maybe?
+6. Social connection has been widely studied. Joint attention is a core component of development, including the development of attachment styles. There is a plausible link between these fields that also suggests an evolutionary story similar to that of self-esteem.
+
+[Belongingness as a fundamental need]
+- Baumeister
+- What kind of belongingess is needed? Friendship? Acquaintanceship? Romantic relationship? Acceptance by the group? Self-esteem alone could fulfill this need, but why do we have feelings of social connection with specific people?
+- It is well established that humans have a fundamental need to belong (Baumeister & Leary 1995) [ref ref ref]. The literature from various subfields--including research on self-esteem and attachment--approaches this fundamental need from various angles.
+From Baumeister and Leary (1995) ["The need to belong"]:
+> "A hypothesized need to form and maintain strong, stable interpersonal relationships is evaluated in light of the empirical literature. The need is for frequent, nonaversive interactions within an ongoing relational bond. Consistent with the belongingness hypothesis, people form social attachments readily under most conditions and resist the dissolution of existing bonds. Belongingness appears to have multiple and strong effects on emotional patterns and on cognitive processes. Lack of attachments is linked to a variety of ill effects on health, adjustment, and well-being. Other evidence, such as that concerning satiation, substitution, and behavioral consequences, is likewise consistent with the hypothesized motivation. Several seeming counterexamples turned out not to disconfirm the hypothesis. Existing evidence supports the hypothesis that the need to belong is a powerful, fundamental, and extremely pervasive motivation."
+- While it is established that humans have a fundamental need to belong, what exactly is involved in this belongingness is still being worked out. My proposal seeks to fill in some of the gaps of detail relating to this need.
+> "The likely result of this evolutionary selection would be a set of internal mechanisms that guide individual human beings into social groups and lasting relationships. These mechanisms would presumably include a tendency to orient toward other members of the species, a tendency to experience affective distress when deprived of social contact or relationships, and *a tendency to feel pleasure or positive affect from social contact and relatedness*. These affective mechanisms would stimulate learning by making positive social contact reinforcing and social deprivation punishing." (Emphasis added)
+- This paper attempts to detail the third mechanism suggested by Baumeister & Leary (1995), namely, the mechanism by which humans feel pleasure or positive affect from social contact and relatedness. However, this paper goes further by suggesting that the mechanism that produces pleasure is either closely related to or the same as the mechanism that produces aversiveness toward perceived out-group members.
+
+[Social connection]
+The term "social connection" remains somewhat ambiguous despite being used across subfields. It has been used interchangeably with "social bonding" (Inagaki 2018) and with "the subjective feeling of friendship, love, and caring that can be felt both from and toward others" (Hutcherson et al. 2015). It is unclear how or whether social connection is distinct from infant-caregiver attachment, romantic attachment, or friendship [ref ref ref]. In this paper, I use the term to refer to a certain set of subjective feelings that are experienced as pleasurable and that encode information regarding the likely future cooperativeness of the individuals with whom those feelings are associated. This should be regarded as a preliminary definition. Part of the goal of this paper is to clarify the term "social connection" by discussing the possible role of certain subjective feelings in human evolution. The psychological system of social pleasure that is invoked during discussions of social connection is likely coupled with the system of social aversiveness that is invoked during discussions of tribalism such that the two systems are different sides of the same coin, both encoding information about the same question, i.e., "Will this person cooperate with me to meet my (often unconscious) goals and needs?"--only encoding different answers. 
+
+[Sociometer theory]
 
 
 
+
+
+
+<hr/>
 
 I. Introduction
   a. Social connection, attachment theory, etc...
@@ -23,10 +55,10 @@ Social connection and competitive personalities...
 If we regard feelings of social connection as signals about how cooperative/uncooperative an individual is, we are implying a very important role for cooperation/uncooperation (for the sake of our needs/goals) and humans' perceptions of it. Is this implication supported by the literature?
 - From Holmes 2002: "I contend that individuals’ most dominant concern in social life is whether the motives of others are benevolent or hostile. That is, the most critical expectations are those concerned with whether others are disposed to be responsive to their needs and value them, or, instead, to be self-interested." (See page 18 of this paper for more.)
   - "For instance, Tooby and Cosmides (1996) maintained that reciprocal cooperation between individuals has substantial possible benefits in terms of gains in trade, but to make such exchanges secure, individuals would have developed suspicion mechanisms for detecting cheaters."
-- Maybe?: ooperative/uncooperative == cooperative/competitive == prosocial/self-interested
+- Maybe?: cooperative/uncooperative == cooperative/competitive == prosocial/self-interested
 
 
-
+<hr/>
 
 **U x 5 claim.** Social psychologists have been studying social connection for some time. However, the causes of feelings of social connection are still a mystery. How and why feelings of social connection arise is unknown. In this paper, I argue that feelings of social connection derive from certain kinds of joint attention. Further, I argue that the psychological mechanism responsible for feelings of social connection is a broader mechanism responsible for reciprocating cooperative and uncooperative behavior. I separate this paper into two sections. In the first section, I articulate the hypothesis that feelings of social connection can be caused by certain kinds of joint attention. In the second section, I argue for an evolutionary psychology explanation of this joint-attention theory of social connection.
 
@@ -90,6 +122,11 @@ Look into research on shared attention, mental attention, and attention generall
 How does planning affect perception of meeting needs?
 
 
+Why is interacting with a stranger in the line at a grocery store pleasant, pleasurable? My proposal about feelings of social connection would answer this question. It is pleasurable because of (a) joint attention and (b) aligned-valence responsiveness to bids for attending what we jointly attend.
+
+Why is listening to a podcast pleasant, pleasurable? My proposal about feelings of social connection would answer this question. It is pleasurable because of perceived aligned-valence joint attention.
+
+
 ## 1. Introduction??
 Social connection is a fundamental need [just like hunger and belonging (cf. sociometer theory)].
 I separate this paper into two sections: one focused on claims that are more testable, the other focused on more theoretical matters. I make this separation because the hypothesis in Section 2 might be fruitful regardless of the theoretical matters. I include the theoretical matters in order to integrate my claims with the evolutionary psychology literature. 
@@ -116,6 +153,7 @@ Leary and Baumeister (2000) introduced sociometer theory, which casts self-estee
 
 The importance of joint attention in sociality:
 - "Adolescents and adults who cannot follow, initiate, or join with the rapid-fire changes of shared attention in social interactions may be impaired in their capacity for relatedness and relationships." [from Attention, Joint Attention, and Social Cognition]
+
 
 
 ## 1. Introduction
@@ -174,7 +212,7 @@ My proposal of a psychological mechanism that regulates feelings of social conne
 - [Important, influential chapter on joint attention and social cognition and language] ["Joint Attention as Social Cognition." Tomasello 1995 (chapter in collection)](https://www.google.com/books/edition/Joint_Attention/-SIBAwAAQBAJ?hl=en&gbpv=1&dq=joint+attention+as+social+cognition&pg=PA103&printsec=frontcover)
 - [Situating Coordination and Cooperation Between Ecological and Social Psychology](https://www.tandfonline.com/doi/abs/10.1080/10407410701332106)
 - [The Affordances for Social Psychology of the Ecological Approach to Social Knowing](https://journals.sagepub.com/doi/abs/10.1177/0959354307075046)
-- [The neural correlates of social connection](https://www.researchgate.net/publication/263704797_The_neural_correlates_of_social_connection)
+- Hutcherson, C. A., Seppala, E. M., & Gross, J. J. (2015). The neural correlates of social connection. Cognitive, affective & behavioral neuroscience, 15(1), 1–14. [https://doi.org/10.3758/s13415-014-0304-9](https://doi.org/10.3758/s13415-014-0304-9)
 - [Heirometer theory](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00334/full)
 - [Mundy. Attention, Joint Attention, and Social Cognition](https://journals.sagepub.com/doi/abs/10.1111/j.1467-8721.2007.00518.x)
 - [Joint attention, shared goals, and social bonding](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1111/bjop.12144)
@@ -190,3 +228,6 @@ My proposal of a psychological mechanism that regulates feelings of social conne
 - Fredrickson BL. The role of positive emotions in positive psychology. The broaden-and-build theory of positive emotions. Am Psychol. 2001;56(3):218-226. [doi:10.1037//0003-066x.56.3.218](doi:10.1037//0003-066x.56.3.218)
 - Holmes, J.G. (2002), Interpersonal Expectations as the Building Blocks of Social Cognition: An Interdependence Theory Perspective. Personal Relationships, 9: 1-26. [https://doi.org/10.1111/1475-6811.00001](https://doi.org/10.1111/1475-6811.00001)
 - Tooby, J., & Cosmides, L. (1996). Friendship and the banker's paradox: Other pathways to the evolution of adaptations for altruism. In W. G. Runciman, J. M. Smith, & R. I. M. Dunbar (Eds.), Evolution of social behaviour patterns in primates and man (pp. 119–143). Oxford University Press. [https://psycnet.apa.org/record/1997-36303-006](https://psycnet.apa.org/record/1997-36303-006)
+- Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117(3), 497–529. [https://doi.org/10.1037/0033-2909.117.3.497](https://doi.org/10.1037/0033-2909.117.3.497)
+- Inagaki TK. Opioids and Social Connection. Current Directions in Psychological Science. 2018;27(2):85-90. [doi:10.1177/0963721417735531](https://journals.sagepub.com/doi/full/10.1177/0963721417735531)
+  
