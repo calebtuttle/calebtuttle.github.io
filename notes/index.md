@@ -9,7 +9,7 @@ These are just notes. Sometimes I think thoughts, don't have time to develop the
 
 ### [I'm starting to learn about the philosophy of science](/notes/starting-to-learn-about-the-philosophy-of-science)
 
-### [Notes on Machiavelli](/notes/notes-on-machiavelli)
+<!-- ### [Notes on Machiavelli](/notes/notes-on-machiavelli) -->
 
 ### [Notes on practical science](/notes/notes-on-practical-science)
 
