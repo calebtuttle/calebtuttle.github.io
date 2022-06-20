@@ -1,4 +1,7 @@
-# Notes on Machiavelli
+---
+layout: post
+title: Notes on Machiavelli
+---
 
 I just finished reading *The Prince*.
 
